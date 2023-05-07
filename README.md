@@ -5,3 +5,4 @@
 
 ### Demo
 * [Simple PCD viewer](https://p3dviewer.vercel.app/)
+* [Tensorflow camera demo](https://neka-nat.github.io/tfjs_camera_demo/)
