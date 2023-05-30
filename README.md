@@ -12,3 +12,7 @@
 * [myCobot on your browser](https://mycobot-web.vercel.app/)
 * [Simple PCD viewer](https://p3dviewer.vercel.app/)
 * [Tensorflow camera demo](https://neka-nat.github.io/tfjs_camera_demo/)
+
+### Certification
+
+![aws-certified-solutions-architect-associate](https://github.com/neka-nat/neka-nat/assets/991515/fb647b0a-04d4-4f9f-af72-57e31bc677b1)
