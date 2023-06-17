@@ -5,6 +5,7 @@
 
 ### Recent projects
 
+[![wgimage](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=wgimage)](https://github.com/neka-nat/wgimage)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 [![notionflow](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=notionflow)](https://github.com/neka-nat/notionflow)
 
