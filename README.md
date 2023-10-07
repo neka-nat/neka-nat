@@ -11,6 +11,7 @@
 [![notionflow](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=notionflow)](https://github.com/neka-nat/notionflow)
 
 ### Demo
+* [Segment Anything](https://aquamarine-swan-4add7d.netlify.app/)
 * [myCobot on your browser](https://mycobot-web.vercel.app/)
 * [Simple PCD viewer](https://p3dviewer.vercel.app/)
 * [Tensorflow camera demo](https://neka-nat.github.io/tfjs_camera_demo/)
