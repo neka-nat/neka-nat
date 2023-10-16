@@ -8,7 +8,7 @@
 [![wgimage](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=wgimage)](https://github.com/neka-nat/wgimage)
 [![streamlit-mermaid](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=streamlit-mermaid)](https://github.com/neka-nat/streamlit-mermaid)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
-[![notionflow](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=notionflow)](https://github.com/neka-nat/notionflow)
+[![web-sam](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=web-sam)](https://github.com/neka-nat/web-sam)
 
 ### Demo
 * [Segment Anything](https://aquamarine-swan-4add7d.netlify.app/)
