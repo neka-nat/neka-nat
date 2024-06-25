@@ -1,4 +1,4 @@
-### Enjoy my projects 👋
+### Explore and Enjoy my projects 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=neka-nat&theme=radical)
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neka-nat&show_icons=true&theme=radical&layout=compact)
@@ -9,6 +9,8 @@
 [![streamlit-mermaid](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=streamlit-mermaid)](https://github.com/neka-nat/streamlit-mermaid)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 [![web-sam](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=web-sam)](https://github.com/neka-nat/web-sam)
+[![sam-cpp-python](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=sam-cpp-python)](https://github.com/neka-nat/sam-cpp-python)
+[![cad3dify](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=cad3dify)](https://github.com/neka-nat/cad3dify)
 
 ### Demo
 * [Segment Anything](https://aquamarine-swan-4add7d.netlify.app/)
