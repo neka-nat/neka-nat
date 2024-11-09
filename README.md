@@ -21,3 +21,6 @@
 ### Certification
 
 ![aws-certified-solutions-architect-associate](https://github.com/neka-nat/neka-nat/assets/991515/fb647b0a-04d4-4f9f-af72-57e31bc677b1)
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,rust,react,ts,ros,nextjs,aws,gcp,pytorch,wasm)](https://skillicons.dev)
