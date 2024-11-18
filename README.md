@@ -9,7 +9,7 @@
 [![streamlit-mermaid](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=streamlit-mermaid)](https://github.com/neka-nat/streamlit-mermaid)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 [![reflex-firebase](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=reflex-firebase)](https://github.com/neka-nat/reflex-firebase)
-[![sam-cpp-python](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=sam-cpp-python)](https://github.com/neka-nat/sam-cpp-python)
+[![tripo-python](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=tripo-python)](https://github.com/neka-nat/tripo-python)
 [![cad3dify](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=cad3dify)](https://github.com/neka-nat/cad3dify)
 
 ### Demo
