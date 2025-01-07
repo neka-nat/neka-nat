@@ -10,7 +10,7 @@
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 [![reflex-firebase](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=reflex-firebase)](https://github.com/neka-nat/reflex-firebase)
 [![tripo-python](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=tripo-python)](https://github.com/neka-nat/tripo-python)
-[![cad3dify](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=cad3dify)](https://github.com/neka-nat/cad3dify)
+[![cad3dify](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mineru-api)](https://github.com/neka-nat/mineru-api)
 
 ### Demo
 * [Segment Anything](https://aquamarine-swan-4add7d.netlify.app/)
