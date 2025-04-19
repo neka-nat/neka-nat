@@ -7,7 +7,7 @@
 
 [![streamlit-mermaid](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=streamlit-mermaid)](https://github.com/neka-nat/streamlit-mermaid)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
-[![tripo-python](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=tripo-python)](https://github.com/neka-nat/tripo-python)
+[![freecad-mcp-use-client](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=freecad-mcp-use-client)](https://github.com/neka-nat/freecad-mcp-use-client)
 [![mineru-api](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mineru-api)](https://github.com/neka-nat/mineru-api)
 
 ### Demo
