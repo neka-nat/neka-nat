@@ -5,7 +5,7 @@
 
 ### Recent projects
 
-[![streamlit-mermaid](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=streamlit-mermaid)](https://github.com/neka-nat/streamlit-mermaid)
+[![snapfiction-ai](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=snapfiction-ai)](https://github.com/neka-nat/snapfiction-ai)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 [![freecad-mcp-use-client](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=freecad-mcp-use-client)](https://github.com/neka-nat/freecad-mcp-use-client)
 [![mineru-api](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mineru-api)](https://github.com/neka-nat/mineru-api)
