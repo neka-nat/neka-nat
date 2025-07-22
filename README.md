@@ -5,6 +5,7 @@
 
 ### Recent projects
 
+[![feeteck-servo-ts](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=feeteck-servo-ts)](https://github.com/neka-nat/feeteck-servo-ts)
 [![snapfiction-ai](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=snapfiction-ai)](https://github.com/neka-nat/snapfiction-ai)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 [![tts-clients](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=tts-clients)](https://github.com/neka-nat/tts-clients)
