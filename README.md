@@ -5,6 +5,7 @@
 
 ### Recent projects
 
+[![fullbody-pose-maker](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=fullbody-pose-maker)](https://github.com/neka-nat/fullbody-pose-maker)
 [![feetech-servo-ts](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=feetech-servo-ts)](https://github.com/neka-nat/feetech-servo-ts)
 [![snapfiction-ai](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=snapfiction-ai)](https://github.com/neka-nat/snapfiction-ai)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
@@ -12,6 +13,7 @@
 [![mineru-api](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mineru-api)](https://github.com/neka-nat/mineru-api)
 
 ### Demo
+* [fullbody-pose-maker](https://fullbody-pose-maker.vercel.app/)
 * [Segment Anything](https://aquamarine-swan-4add7d.netlify.app/)
 * [myCobot on your browser](https://mycobot-web.vercel.app/)
 * [Simple PCD viewer](https://p3dviewer.vercel.app/)
