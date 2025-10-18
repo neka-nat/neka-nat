@@ -5,12 +5,12 @@
 
 ### Recent projects
 
+[![pylekiwi](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=pylekiwi)](https://github.com/neka-nat/pylekiwi)
 [![fullbody-pose-maker](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=fullbody-pose-maker)](https://github.com/neka-nat/fullbody-pose-maker)
 [![feetech-servo-ts](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=feetech-servo-ts)](https://github.com/neka-nat/feetech-servo-ts)
 [![snapfiction-ai](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=snapfiction-ai)](https://github.com/neka-nat/snapfiction-ai)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
-[![tts-clients](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=tts-clients)](https://github.com/neka-nat/tts-clients)
-[![mineru-api](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mineru-api)](https://github.com/neka-nat/mineru-api)
+
 
 ### Demo
 #### [fullbody-pose-maker](https://fullbody-pose-maker.vercel.app/)
