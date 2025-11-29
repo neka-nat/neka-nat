@@ -14,17 +14,14 @@
 
 
 ### Demo
-#### [fullbody-pose-maker](https://fullbody-pose-maker.vercel.app/)
+#### [Fullbody IK simulation](https://fullbody-pose-maker.vercel.app/)
 https://github.com/user-attachments/assets/007d878e-daac-416c-92ca-e05f04870a69
 
-#### [Segment Anything](https://aquamarine-swan-4add7d.netlify.app/)
+#### [Segment Anything on browser](https://aquamarine-swan-4add7d.netlify.app/)
 ![](https://github.com/neka-nat/web-sam/raw/master/demo.gif)
 
 #### [myCobot on your browser](https://mycobot-web.vercel.app/)
 https://github.com/neka-nat/mycobot-web/assets/991515/be268143-1d50-48ff-9916-57cf8bf9f9da
-
-#### [Simple PCD viewer](https://p3dviewer.vercel.app/)
-![](https://github.com/neka-nat/p3dviewer/raw/master/assets/screenshot.png)
 
 #### [Tensorflow camera demo](https://neka-nat.github.io/tfjs_camera_demo/)
 
