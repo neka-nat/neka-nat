@@ -3,12 +3,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=neka-nat&theme=radical)
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neka-nat&show_icons=true&theme=radical&layout=compact)
 
-## ❤️ Sponsors
-
-<a href="https://github.com/tzhangchi">
-  <img src="https://github.com/tzhangchi.png" width="60px" alt="user1"/>
-</a>
-
 ### Recent projects
 
 [![ezdwg](https://github-readme-stats.vercel.app/api/pin/?username=monozukuri-ai&repo=ezdwg)](https://github.com/monozukuri-ai/ezdwg)
