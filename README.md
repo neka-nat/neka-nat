@@ -5,11 +5,11 @@
 
 ### Recent projects
 
+[![agent3dify](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=agent3dify)](https://github.com/neka-nat/agent3dify)
 [![ezdwg](https://github-readme-stats.vercel.app/api/pin/?username=monozukuri-ai&repo=ezdwg)](https://github.com/monozukuri-ai/ezdwg)
 [![rfdetr-doclayout](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=rfdetr-doclayout)](https://github.com/neka-nat/rfdetr-doclayout)
 [![pylekiwi](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=pylekiwi)](https://github.com/neka-nat/pylekiwi)
 [![fullbody-pose-maker](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=fullbody-pose-maker)](https://github.com/neka-nat/fullbody-pose-maker)
-[![feetech-servo-ts](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=feetech-servo-ts)](https://github.com/neka-nat/feetech-servo-ts)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 
 
