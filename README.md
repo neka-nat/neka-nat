@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/664ae714-650b-47b9-9d94-56571ab1762a
-
 ### Explore and Enjoy my projects 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=neka-nat&theme=radical)
