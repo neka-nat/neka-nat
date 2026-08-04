@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/664ae714-650b-47b9-9d94-56571ab1762a
+
 ### Explore and Enjoy my projects 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=neka-nat&theme=radical)
@@ -10,7 +14,6 @@
 [![pylekiwi](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=pylekiwi)](https://github.com/neka-nat/pylekiwi)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 
-
 ### Demo
 
 <table>
@@ -18,7 +21,7 @@
     <td valign="top" width="50%">
       <strong><a href="https://github.com/botrail/botrail">Motion planning package</a></strong><br>
       <br><br>
-      <video alt="botrail demo preview" src="https://x.com/neka_nat/status/2084092107896361226/video/1" width="100%" />
+      <video alt="botrail demo preview" src="https://github.com/user-attachments/assets/2d8eb8d9-a1cc-4b3d-860c-3ade2a110bc4" width="100%" />
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/neka-nat/mycobot-web">myCobot on your browser</a></strong><br>
