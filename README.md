@@ -7,9 +7,7 @@
 
 [![agent3dify](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=agent3dify)](https://github.com/neka-nat/agent3dify)
 [![ezdwg](https://github-readme-stats.vercel.app/api/pin/?username=monozukuri-ai&repo=ezdwg)](https://github.com/monozukuri-ai/ezdwg)
-[![rfdetr-doclayout](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=rfdetr-doclayout)](https://github.com/neka-nat/rfdetr-doclayout)
 [![pylekiwi](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=pylekiwi)](https://github.com/neka-nat/pylekiwi)
-[![fullbody-pose-maker](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=fullbody-pose-maker)](https://github.com/neka-nat/fullbody-pose-maker)
 [![mycobot web](https://github-readme-stats.vercel.app/api/pin/?username=neka-nat&repo=mycobot-web)](https://github.com/neka-nat/mycobot-web)
 
 
@@ -18,9 +16,9 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong><a href="https://github.com/neka-nat/fullbody-pose-maker">fullbody pose maker</a></strong><br>
+      <strong><a href="https://github.com/botrail/botrail">Motion planning package</a></strong><br>
       <br><br>
-      <video alt="fullbody pose maker preview" src="https://github.com/user-attachments/assets/007d878e-daac-416c-92ca-e05f04870a69" width="100%" />
+      <video alt="botrail demo preview" src="https://x.com/neka_nat/status/2084092107896361226/video/1" width="100%" />
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/neka-nat/mycobot-web">myCobot on your browser</a></strong><br>
